@@ -1,0 +1,10 @@
+https://eater.net/8bit/control
+- [8-bit CPU control logic: Part 1](https://www.youtube.com/watch?v=dXdoim96v5A)
+- [8-bit CPU control logic: Part 2](https://www.youtube.com/watch?v=X7rCxs1ppyY)
+- [8-bit CPU control logic: Part 3](https://www.youtube.com/watch?v=dHWFpkGsxOs)
+- [8-bit CPU reset circuit and power supply tips](https://www.youtube.com/watch?v=HtFro0UKqkk)
+- [Reprogramming CPU microcode with an Arduino](https://www.youtube.com/watch?v=JUVt_KYAp-I)
+- [Adding more machine language instructions to the CPU](https://www.youtube.com/watch?v=FCscQGBIL-Y)
+- [Making a computer Turing complete](https://www.youtube.com/watch?v=AqNDk_UJW4k)
+- [CPU flags register](https://www.youtube.com/watch?v=ObnosznZvHY)
+- [Conditional jump instructions](https://www.youtube.com/watch?v=Zg1NdPKoosU)

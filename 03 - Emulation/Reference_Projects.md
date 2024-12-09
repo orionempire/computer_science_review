@@ -1,0 +1,2 @@
+- [CHIP-8 Emulator (2019)](https://code.austinmorlan.com/austin/2019-chip8-emulator)
+- [NES Emulator (2019)](https://code.austinmorlan.com/austin/2019-nes-emulator)
